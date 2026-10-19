@@ -1,5 +1,8 @@
 # Workers-Proxy
 
+
+##　まだアルファ版のツールです。動作の保証はできません。
+
 npx wrangler deploy
 または
 https://workers.cloudflare.com/playground

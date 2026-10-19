@@ -12,3 +12,5 @@ HTMLをスクロールして最後の部分の6copy;を3回クリックすると
 直リンクで設定画面は
 *.workers.dev/i/fj/setting-page
 です。
+
+使用AI Claude Sonnet 5.5 中、Max

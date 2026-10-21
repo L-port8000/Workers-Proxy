@@ -1,1 +1,2 @@
-
+name = "proxy"
+main = "src/index.ts"
